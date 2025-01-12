@@ -1,4 +1,5 @@
 build/
+.vs/
 .visualgdb/
 readme.txt
 *.user
